@@ -8,7 +8,11 @@ It is created by using Node.js and Express.js, so you have to install few npm pa
 
 The temperature is accessed by using the Open Weather Map API☁ ,which provides us with frequently updated weather. It is available for both free as well as paid subscriptions.💃
 
-Here's a link: https://openweathermap.org/
+Here's a link to their website👀: https://openweathermap.org/ 
+
+<img src="https://github.com/YashaShetty502/Weather-Project/blob/master/images/Weather_Gif.gif" alt="Weather Demo" width="70%">
+
+
 
 
 
